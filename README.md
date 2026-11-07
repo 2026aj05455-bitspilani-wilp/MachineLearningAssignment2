@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## a. Problem statement
 
 Build and compare five supervised classification approaches for predicting the variety of a dry bean from measurements extracted from its image. The target has seven classes. This project scaffold is designed to help you implement Logistic Regression, Decision Tree, K-Nearest Neighbors, Naive Bayes, and Support Vector Machine, evaluate each on one held-out test set, and present the results in an interactive Streamlit app.
@@ -47,3 +48,7 @@ The following scikit-learn settings were used:
 | KNN | `n_neighbors=7`, `weights="distance"`; `StandardScaler` was fitted within the training pipeline. Other parameters use scikit-learn defaults. |
 | Naive Bayes | Gaussian Naive Bayes (`GaussianNB`) with scikit-learn defaults. |
 | Support Vector Machine | RBF kernel, `C=1.0`, `probability=True`, `random_state=42`; `StandardScaler` was fitted within the training pipeline. Other parameters use scikit-learn defaults. |
+=======
+# MachineLearningAssignment2
+This is code repository for Machine learning Assignment 2.
+>>>>>>> 0043ef9c6f6ef931a40110e9d354371989a9718f
