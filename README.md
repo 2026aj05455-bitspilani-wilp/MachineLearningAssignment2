@@ -9,7 +9,7 @@ The **Dry Bean** dataset is from the [UCI Machine Learning Repository](https://a
 
 
 ## c. GitHub Repository Link
-
+https://github.com/2026aj05455-bitspilani-wilp/MachineLearningAssignment2.git
 
 
 
@@ -49,6 +49,9 @@ The following scikit-learn settings were used:
 | Naive Bayes | Gaussian Naive Bayes (`GaussianNB`) with scikit-learn defaults. |
 | Support Vector Machine | RBF kernel, `C=1.0`, `probability=True`, `random_state=42`; `StandardScaler` was fitted within the training pipeline. Other parameters use scikit-learn defaults. |
 =======
-# MachineLearningAssignment2
-This is code repository for Machine learning Assignment 2.
+
+
+## Streamlit App Link
+https://machinelearningassignment2-qsjfes9meynmctks4bk6dx.streamlit.app/
+
 >>>>>>> 0043ef9c6f6ef931a40110e9d354371989a9718f
